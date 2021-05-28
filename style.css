@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 40px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 20px;
+    color: chartreuse;
+}
+
+canvas {
+    border: 10px dotted aqua;
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px black;
+}
+
+.buon {
+    font-size: 35px;
+    color: aquamarine;
+}
+
+#song {
+    font-size: 35px;
+    color: aquamarine;
+}
